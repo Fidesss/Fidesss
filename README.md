@@ -25,11 +25,3 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <hr>
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fidesss\&rank_icon=github\&theme=transparent&bg_color=00000000)](https://github.com/fidesss/github-readme-stats)
-&emsp;
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cara1326)](https://solved.ac/cara1326/)
-
-</div>
